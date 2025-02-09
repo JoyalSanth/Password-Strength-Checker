@@ -17,6 +17,4 @@ A **Python GUI application** to check password strength using **Tkinter**.
 Open **Command Prompt/Terminal** and run:  
 ```sh
 pip install tk
-3️⃣ **Run the Program**
-python password_checker.py
 
