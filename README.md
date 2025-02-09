@@ -18,3 +18,11 @@ Open **Command Prompt/Terminal** and run:
 ```sh
 pip install tk
 
+
+### 3️⃣ Run the Program  
+
+#### 🔹 Using Command Prompt (Windows) / Terminal (Mac & Linux):  
+```sh
+python password_checker.py
+
+
