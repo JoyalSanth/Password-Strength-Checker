@@ -1,3 +1,4 @@
+![Screenshot 2025-02-09 131050](https://github.com/user-attachments/assets/20e52900-bdec-4190-a97c-05f1915f1f8e)
 # 🔐 Password Strength Checker  
 
 A **Python GUI application** to check password strength using **Tkinter**.  
