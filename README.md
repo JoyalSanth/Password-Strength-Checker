@@ -1,6 +1,6 @@
-# 🔐 Password Strength Checker
+# 🔐 Password Strength Checker  
 
-A **Python GUI application** to check password strength using **Tkinter**.
+A **Python GUI application** to check password strength using **Tkinter**.  
 
 ## 📌 Features  
 ✔️ Checks password complexity (length, uppercase, lowercase, numbers, special characters).  
@@ -8,21 +8,15 @@ A **Python GUI application** to check password strength using **Tkinter**.
 ✔️ Stylish UI with **Tkinter**.  
 ✔️ Easy to use and lightweight.  
 
-## 🚀 Installation & Usage  
+---
+
+## 🚀 How to Run the Code  
 
 ### **1️⃣ Install Python (if not installed)**  
 🔹 Download and install Python from: [python.org](https://www.python.org/downloads/).  
 
-### **2️⃣ Install Dependencies**  
+### **2️⃣ Install Dependencies and Run the Program**  
 Open **Command Prompt/Terminal** and run:  
 ```sh
 pip install tk
-
-
-### 3️⃣ Run the Program  
-
-#### 🔹 Using Command Prompt (Windows) / Terminal (Mac & Linux):  
-```sh
 python password_checker.py
-
-
